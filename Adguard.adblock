@@ -1,0 +1,99 @@
+! Title: Turtlecute Host List
+! Expires: 1 days
+! Description: test for personal use
+
+! --- Google Ads
+||pagead2.googlesyndication.com^
+||adservice.google.com^
+||pagead2.googleadservices.com^
+||afs.googlesyndication.com^
+
+! --- Doubleclick.net
+||stats.g.doubleclick.net^
+||ad.doubleclick.net^
+||static.doubleclick.net^
+||m.doubleclick.net^
+||mediavisor.doubleclick.net^
+
+
+!========= Analytics ==========
+
+! --- Stats WP Plugin
+||stats.wp.com^
+
+
+!======= Error Trackers =======
+
+! --- Bugsnag
+||notify.bugsnag.com^
+||sessions.bugsnag.com^
+||api.bugsnag.com^
+||app.bugsnag.com^
+
+! --- Sentry
+||browser.sentry-cdn.com^
+||app.getsentry.com^
+
+
+!====== Social Trackers =======
+
+! --- Facebook
+||pixel.facebook.com^
+||an.facebook.com^
+
+
+! --- Pinterest
+||ads.pinterest.com^
+||log.pinterest.com^
+||trk.pinterest.com^
+
+! --- Reddit
+||events.reddit.com^
+||events.redditmedia.com^
+
+! --- YouTube
+||ads.youtube.com^
+
+! --- TikTok
+||ads-api.tiktok.com^
+||analytics.tiktok.com^
+||ads-sg.tiktok.com^
+||analytics-sg.tiktok.com^
+||business-api.tiktok.com^
+||ads.tiktok.com^
+||log.byteoversea.com^
+
+
+
+!============ OEMs ============
+
+! --- Realme
+||iot-eu-logser.realme.com^
+||iot-logser.realme.com^
+||bdapi-ads.realmemobile.com^
+||bdapi-in-ads.realmemobile.com^
+
+! --- Xiaomi
+||api.ad.xiaomi.com^
+||data.mistat.xiaomi.com^
+||data.mistat.india.xiaomi.com^
+||data.mistat.rus.xiaomi.com^
+||sdkconfig.ad.xiaomi.com^
+||sdkconfig.ad.intl.xiaomi.com^
+||tracking.rus.miui.com^
+
+! --- Oppo
+||adsfs.oppomobile.com^
+||adx.ads.oppomobile.com^
+||ck.ads.oppomobile.com^
+||data.ads.oppomobile.com^
+
+
+! --- Apple
+||iadsdk.apple.com^
+||metrics.icloud.com^
+||metrics.mzstatic.com^
+||api-adservices.apple.com^
+||books-analytics-events.apple.com^
+||weather-analytics-events.apple.com^
+||notes-analytics-events.apple.com^
